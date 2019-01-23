@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "444820033927",
+    "firebase_url": "https://planning-app-c41b9.firebaseio.com",
+    "project_id": "planning-app-c41b9",
+    "storage_bucket": "planning-app-c41b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444820033927:android:286b8422b03e3ba0",
+        "android_client_info": {
+          "package_name": "rinaldopjr.app.scrumplanningpoker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444820033927-50nilq1ottk0uaautaa8gkf3j0s5ke5b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rinaldopjr.app.scrumplanningpoker",
+            "certificate_hash": "a4f15246958b59f474b08581537d09861771d278"
+          }
+        },
+        {
+          "client_id": "444820033927-aulrjmf17vfvli1hhkudcvtrk60i12vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rinaldopjr.app.scrumplanningpoker",
+            "certificate_hash": "552926a2623196dc324e72b5dc2621737fe49526"
+          }
+        },
+        {
+          "client_id": "444820033927-hupcdagmajmn5u2uictami9e7rmlnaph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBs7FpGkIrhhj6OzU-mdhSXzDbX50R9NE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444820033927-hupcdagmajmn5u2uictami9e7rmlnaph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
